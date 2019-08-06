@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1561050053 source:c:\users\k\desktop\caja++\caja++\main.cpp
+	"funciones_y_menus.h"
+
+1560141883 c:\users\k\desktop\caja++\caja++\clases\persona.h
+
+1561234484 c:\users\k\desktop\caja++\caja++\clases\usuario.h
+
+1560357480 c:\users\k\desktop\caja++\caja++\clases\sistema.h
+
+1561326970 c:\users\k\desktop\caja++\caja++\clases\categoria.h
+
+1561355292 c:\users\k\desktop\caja++\caja++\clases\producto.h
+
+1560438386 c:\users\k\desktop\caja++\caja++\clases\fecha.h
+
+1561258464 c:\users\k\desktop\caja++\caja++\clases\venta.h
+
+1561263010 c:\users\k\desktop\caja++\caja++\clases\productoventa.h
+
+1561613498 c:\users\k\desktop\caja++\caja++\funciones_y_menus.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+	<limits>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"clases/Fecha.h"
+	"clases/Persona.h"
+	"clases/Usuario.h"
+	"clases/Sistema.h"
+	"clases/Categoria.h"
+	"clases/Producto.h"
+	"clases/Cliente.h"
+	"clases/Venta.h"
+	"clases/ProductoVenta.h"
+
+1561244560 c:\users\k\desktop\caja++\caja++\clases\cliente.h
+
