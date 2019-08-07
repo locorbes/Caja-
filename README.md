@@ -1,2 +1,2 @@
 # CajaPlusPlus
-Sistema de cobro por consola para pequeñas empresas.
+Sistema de cobro y control de stock por consola para tiendas.
